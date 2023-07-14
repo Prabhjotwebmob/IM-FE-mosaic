@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'mosaic',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-mosaic/IM-FE-mosaic.module.ts',
+//         './Module': './src/app/mosaic/mosaic.module.ts',
 //       },
 
 //       shared: {
